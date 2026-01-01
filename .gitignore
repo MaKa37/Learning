@@ -1,0 +1,5 @@
+# 가상환경 업로드 제외
+venv/
+__pycahe__/
+*.pyc
+.env
